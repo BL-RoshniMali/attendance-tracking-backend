@@ -1,0 +1,6 @@
+info: ::ffff:127.0.0.1 - - [08/Jun/2024:05:38:20 +0000] "POST /api/v1/users/login?lat=12.914750963878166&lon=77.63855823744244 HTTP/1.1" 202 365 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Jun/2024:08:02:53 +0000] "POST /api/v1/users/login?lat=12.914750963878166&lon=77.63855823744244 HTTP/1.1" 202 365 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [08/Jun/2024:15:38:17 +0000] "POST /api/v1/users/register HTTP/1.1" 200 325 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+

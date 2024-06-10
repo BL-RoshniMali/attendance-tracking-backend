@@ -1,0 +1,30 @@
+info: ::ffff:127.0.0.1 - - [06/Jun/2024:17:47:22 +0000] "POST /api/v1/users/register HTTP/1.1" 400 58 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [06/Jun/2024:17:50:14 +0000] "POST /api/v1/users/register HTTP/1.1" 400 58 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [06/Jun/2024:17:50:59 +0000] "POST /api/v1/users/register HTTP/1.1" 200 335 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [06/Jun/2024:17:51:15 +0000] "POST /api/v1/users/register HTTP/1.1" 400 63 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [06/Jun/2024:18:09:29 +0000] "POST /api/v1/users/login?lat=12.914750963878166&lon=77.63855823744244 HTTP/1.1" 500 54 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [06/Jun/2024:18:10:57 +0000] "POST /api/v1/users/login?lat=12.914750963878166&lon=77.63855823744244 HTTP/1.1" 500 54 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [06/Jun/2024:18:12:31 +0000] "POST /api/v1/users/login?lat=12.914750963878166&lon=77.63855823744244 HTTP/1.1" 500 54 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [06/Jun/2024:18:13:24 +0000] "POST /api/v1/users/login?lat=12.914750963878166&lon=77.63855823744244 HTTP/1.1" 500 54 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [06/Jun/2024:18:14:14 +0000] "POST /api/v1/users/login?lat=12.914750963878166&lon=77.63855823744244 HTTP/1.1" 500 54 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [06/Jun/2024:18:23:02 +0000] "POST /api/v1/users/login?lat=12.914750963878166&lon=77.63855823744244 HTTP/1.1" 500 54 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [06/Jun/2024:18:23:35 +0000] "POST /api/v1/users/login?lat=12.914750963878166&lon=77.63855823744244 HTTP/1.1" 500 54 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [06/Jun/2024:18:24:30 +0000] "POST /api/v1/users/login?lat=12.914750963878166&lon=77.63855823744244 HTTP/1.1" 500 54 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [06/Jun/2024:18:25:24 +0000] "POST /api/v1/users/login?lat=12.914750963878166&lon=77.63855823744244 HTTP/1.1" 500 54 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [06/Jun/2024:18:26:14 +0000] "POST /api/v1/users/login?lat=12.914750963878166&lon=77.63855823744244 HTTP/1.1" 500 54 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [06/Jun/2024:18:28:03 +0000] "POST /api/v1/users/login?lat=12.914750963878166&lon=77.63855823744244 HTTP/1.1" 202 380 "-" "Thunder Client (https://www.thunderclient.com)"
+

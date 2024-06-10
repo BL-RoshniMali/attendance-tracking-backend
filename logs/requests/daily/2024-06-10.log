@@ -1,0 +1,6 @@
+info: ::ffff:127.0.0.1 - - [10/Jun/2024:15:21:14 +0000] "POST /api/v1/users/register HTTP/1.1" 400 63 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Jun/2024:15:21:25 +0000] "POST /api/v1/users/register HTTP/1.1" 200 313 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Jun/2024:15:21:50 +0000] "POST /api/v1/users/login?lat=12.914750963878166&lon=77.63855823744244 HTTP/1.1" 202 367 "-" "Thunder Client (https://www.thunderclient.com)"
+
