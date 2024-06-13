@@ -1,0 +1,552 @@
+info: Connected to the database. {"timestamp":"2024-06-12T08:32:26.561Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:32:49.341Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:33:03.784Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T08:33:34.337Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:33:34.399Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:33:52.859Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:35:39.835Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T08:35:52.184Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:35:52.254Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:36:34.422Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:36:43.097Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:36:59.693Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:39:30.239Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:39:38.751Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:39:43.007Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:42:11.991Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:42:17.340Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:42:22.984Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:42:27.086Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:42:30.521Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:42:38.252Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:42:43.110Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:42:50.174Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:43:07.207Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:43:10.067Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:44:20.844Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:44:25.315Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:44:38.115Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:44:56.030Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:45:09.642Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:45:13.384Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:45:16.023Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:45:46.027Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:45:51.952Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:45:56.443Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:46:06.181Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:47:41.431Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:49:14.104Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:49:37.169Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:49:41.815Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:50:01.948Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:50:06.143Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T08:50:25.486Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:50:25.549Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T08:50:39.533Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:50:39.595Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T08:55:22.644Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:55:22.716Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T08:55:27.710Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T08:55:27.775Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'authorization')
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\src\routes\/user.route.js:21:47
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\body-parser\lib\types\json.js:113:7)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:142:6)
+    at xXssProtectionMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at referrerPolicyMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at xPermittedCrossDomainPoliciesMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-permitted-cross-domain-policies\index.js:15:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at xContentTypeOptionsMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-content-type-options\index.js:6:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at xDownloadOptionsMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-download-options\index.js:6:3) 
+    url - /api/v1/users/private 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-06-12T08:57:19.562Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'authorization')
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\src\routes\/user.route.js:21:47
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\body-parser\lib\types\json.js:113:7)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:142:6)
+    at xXssProtectionMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at referrerPolicyMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at xPermittedCrossDomainPoliciesMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-permitted-cross-domain-policies\index.js:15:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at xContentTypeOptionsMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-content-type-options\index.js:6:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at xDownloadOptionsMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-download-options\index.js:6:3) 
+    url - /api/v1/users/private 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-06-12T09:01:20.987Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'authorization')
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\src\routes\/user.route.js:21:47
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\body-parser\lib\types\json.js:113:7)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:142:6)
+    at xXssProtectionMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at referrerPolicyMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at xPermittedCrossDomainPoliciesMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-permitted-cross-domain-policies\index.js:15:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at xContentTypeOptionsMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-content-type-options\index.js:6:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at xDownloadOptionsMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-download-options\index.js:6:3) 
+    url - /api/v1/users/private 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-06-12T09:01:46.037Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'authorization')
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\src\routes\/user.route.js:21:47
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\body-parser\lib\types\json.js:113:7)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:142:6)
+    at xXssProtectionMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at referrerPolicyMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at xPermittedCrossDomainPoliciesMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-permitted-cross-domain-policies\index.js:15:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at xContentTypeOptionsMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-content-type-options\index.js:6:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at xDownloadOptionsMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-download-options\index.js:6:3) 
+    url - /api/v1/users/private 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-06-12T09:02:03.613Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'authorization')
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\src\routes\/user.route.js:21:47
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\body-parser\lib\types\json.js:113:7)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:142:6)
+    at xXssProtectionMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at referrerPolicyMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at xPermittedCrossDomainPoliciesMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-permitted-cross-domain-policies\index.js:15:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at xContentTypeOptionsMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-content-type-options\index.js:6:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at xDownloadOptionsMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-download-options\index.js:6:3) 
+    url - /api/v1/users/private 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2024-06-12T09:04:09.829Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:05:51.837Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:05:51.905Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:05:59.719Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:05:59.784Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:06:10.084Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:06:10.144Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:06:28.885Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:06:28.946Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:06:33.125Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:06:33.189Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:06:37.765Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:06:37.830Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:06:44.661Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:06:44.724Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'authorization')
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\src\routes\/user.route.js:21:47
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\body-parser\lib\types\json.js:113:7)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:142:6)
+    at xXssProtectionMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at referrerPolicyMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at xPermittedCrossDomainPoliciesMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-permitted-cross-domain-policies\index.js:15:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at xContentTypeOptionsMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-content-type-options\index.js:6:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at xDownloadOptionsMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-download-options\index.js:6:3) 
+    url - /api/v1/users/private 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2024-06-12T09:07:04.098Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:10:24.995Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:10:25.060Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:10:27.574Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:10:27.636Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:10:33.208Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:10:33.270Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:10:37.205Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:10:37.268Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:10:43.129Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:10:43.189Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:10:50.948Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:10:51.009Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:10:56.447Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:10:56.571Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:10:59.189Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:10:59.254Z"}
+error: 
+    status - 500 
+    message - TypeError: authorizatedToken.split is not a function
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\src\routes\/user.route.js:22:42
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\body-parser\lib\types\json.js:113:7)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\express\lib\router\index.js:280:10)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:142:6)
+    at xXssProtectionMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at referrerPolicyMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at xPermittedCrossDomainPoliciesMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-permitted-cross-domain-policies\index.js:15:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at xContentTypeOptionsMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-content-type-options\index.js:6:3)
+    at internalNext (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\index.js:145:6)
+    at xDownloadOptionsMiddleware (C:\Users\Admin\OneDrive\Desktop\bg-office-project\attendance-tracking-app\attendance-tracking-backend\node_modules\helmet\dist\middlewares\x-download-options\index.js:6:3) 
+    url - /api/v1/users/private 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2024-06-12T09:22:50.234Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:24:10.810Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:24:10.869Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:24:19.104Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:24:19.167Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:24:32.221Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:24:32.290Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:25:35.607Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:25:35.669Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:25:40.045Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:25:40.110Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:25:42.835Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:25:42.911Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:25:45.933Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:25:45.996Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:25:56.193Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:25:56.258Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:26:01.018Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:26:01.082Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:26:34.320Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:26:34.379Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:26:43.234Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:26:43.321Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:27:05.134Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:27:05.192Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:27:25.477Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:27:25.533Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T09:27:28.550Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T09:27:28.607Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:13:27.112Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:13:33.602Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T10:13:33.817Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:13:43.815Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T10:13:43.905Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:13:47.317Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T10:13:47.410Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:16:21.478Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T10:16:21.571Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:16:33.107Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T10:16:33.208Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:16:43.549Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T10:16:43.668Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:18:02.275Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T10:18:02.365Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:18:12.584Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T10:18:12.674Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:21:08.424Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T10:21:08.521Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:21:15.762Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T10:21:15.854Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:21:32.254Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T10:21:32.388Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:22:09.338Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T10:22:09.436Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:22:24.020Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T10:22:24.127Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:22:35.072Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T10:22:35.170Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:24:56.607Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T10:24:56.780Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:28:13.310Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T10:28:13.468Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:28:18.634Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T10:28:18.751Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:37:38.054Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T10:37:38.161Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:37:53.209Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T10:37:53.306Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:38:11.238Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T10:38:11.377Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:38:18.401Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T10:38:18.492Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2024-06-12T10:39:05.226Z"}
+info: Connected to the database. {"timestamp":"2024-06-12T10:39:05.321Z"}

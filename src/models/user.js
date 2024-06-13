@@ -16,12 +16,23 @@ export default (sequelize, DataTypes) => {
       email: DataTypes.STRING,
       username: DataTypes.STRING,
       password: DataTypes.STRING,
-      role: DataTypes.STRING, 
+      role: {
+        type: DataTypes.ENUM,
+        values: ['Candidate', 'Admin'],
+        defaultValue: 'Candidate'
+      },
       lab: DataTypes.STRING
     },
     {
       sequelize,
-      modelName: 'user'
+      modelName: 'user',
+      hooks: {
+        beforeValidate: (user, options) => {
+          if (!['Candidate', 'Admin'].includes(user.role)) {
+            user.role = 'Candidate';
+          }
+        }
+      }
     }
   );
   return user;

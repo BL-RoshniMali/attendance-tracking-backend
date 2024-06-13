@@ -1,0 +1,24 @@
+info: ::1 - - [11/Jun/2024:12:29:58 +0000] "POST /api/v1/users/register HTTP/1.1" 200 324 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+info: ::1 - - [11/Jun/2024:12:52:57 +0000] "POST /api/v1/users/register HTTP/1.1" 200 324 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+info: ::1 - - [11/Jun/2024:13:18:22 +0000] "POST /api/v1/users/login?lat=12.9030323&lon=77.6424681 HTTP/1.1" 202 367 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+info: ::1 - - [11/Jun/2024:13:19:45 +0000] "POST /api/v1/users/login?lat=12.9283729&lon=77.6399987 HTTP/1.1" 400 53 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+info: ::1 - - [11/Jun/2024:13:20:04 +0000] "POST /api/v1/users/login?lat=12.9283729&lon=77.6399987 HTTP/1.1" 400 53 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+info: ::1 - - [11/Jun/2024:13:21:46 +0000] "POST /api/v1/users/register HTTP/1.1" 200 333 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+info: ::1 - - [11/Jun/2024:13:22:39 +0000] "POST /api/v1/users/register HTTP/1.1" 200 327 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+info: ::1 - - [11/Jun/2024:13:26:39 +0000] "POST /api/v1/users/register HTTP/1.1" 200 325 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+info: ::1 - - [11/Jun/2024:13:27:12 +0000] "POST /api/v1/users/register HTTP/1.1" 200 323 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+info: ::1 - - [11/Jun/2024:13:27:49 +0000] "POST /api/v1/users/register HTTP/1.1" 200 328 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+info: ::1 - - [11/Jun/2024:13:29:38 +0000] "POST /api/v1/users/register HTTP/1.1" 200 314 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+info: ::1 - - [11/Jun/2024:13:29:51 +0000] "POST /api/v1/users/register HTTP/1.1" 200 324 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+

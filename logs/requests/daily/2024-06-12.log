@@ -1,0 +1,40 @@
+info: ::ffff:127.0.0.1 - - [12/Jun/2024:08:54:35 +0000] "POST /api/v1/users/register HTTP/1.1" 400 63 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Jun/2024:08:54:44 +0000] "POST /api/v1/users/login?lat=12.914750963878166&lon=77.63855823744244 HTTP/1.1" 202 367 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Jun/2024:08:55:33 +0000] "POST /api/v1/users/login?lat=12.914750963878166&lon=77.63855823744244 HTTP/1.1" 202 367 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Jun/2024:08:57:19 +0000] "GET /api/v1/users/private HTTP/1.1" 500 96 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Jun/2024:09:01:20 +0000] "GET /api/v1/users/private HTTP/1.1" 500 96 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Jun/2024:09:01:46 +0000] "GET /api/v1/users/private HTTP/1.1" 500 96 "-" "got (https://github.com/sindresorhus/got)"
+
+info: ::ffff:127.0.0.1 - - [12/Jun/2024:09:02:03 +0000] "GET /api/v1/users/private HTTP/1.1" 500 96 "-" "got (https://github.com/sindresorhus/got)"
+
+info: ::1 - - [12/Jun/2024:09:04:09 +0000] "GET /api/v1/users/private HTTP/1.1" 500 96 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [12/Jun/2024:09:07:04 +0000] "GET /api/v1/users/private HTTP/1.1" 500 96 "-" "PostmanRuntime/7.37.3"
+
+info: ::ffff:127.0.0.1 - - [12/Jun/2024:09:22:16 +0000] "POST /api/v1/users/login?lat=12.914750963878166&lon=77.63855823744244 HTTP/1.1" 202 367 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Jun/2024:09:22:50 +0000] "GET /api/v1/users/private HTTP/1.1" 500 76 "-" "got (https://github.com/sindresorhus/got)"
+
+info: ::1 - - [12/Jun/2024:10:14:54 +0000] "POST /api/v1/users/login?lat=12.9129842&lon=77.6421466 HTTP/1.1" 400 53 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [12/Jun/2024:10:18:55 +0000] "POST /api/v1/users/login?lat=19.050698767226656&lon=72.91586264394981 HTTP/1.1" 202 402 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Jun/2024:10:19:39 +0000] "POST /api/v1/users/login?lat=72.91586264394981&lon=19.050698767226656 HTTP/1.1" 202 323 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Jun/2024:10:28:32 +0000] "POST /api/v1/users/register HTTP/1.1" 200 307 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Jun/2024:10:28:45 +0000] "POST /api/v1/users/register HTTP/1.1" 200 301 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Jun/2024:10:38:38 +0000] "POST /api/v1/users/register HTTP/1.1" 200 317 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Jun/2024:10:39:12 +0000] "POST /api/v1/users/register HTTP/1.1" 200 318 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Jun/2024:10:39:28 +0000] "POST /api/v1/users/register HTTP/1.1" 200 312 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Jun/2024:10:39:40 +0000] "POST /api/v1/users/register HTTP/1.1" 200 314 "-" "Thunder Client (https://www.thunderclient.com)"
+
